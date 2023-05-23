@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Yelkin ✨✨✨
 - ✨  I'm pursuing my master's in Istanbul Technical University-Geomatic Engineering department while working as Python Developer/Computer vision specialist on a 	defense industry company.  
 - 👀 I’m interested in deep learning, remote sensing and image processing.
-- 🌱 I’m currently learning how to work with SAR images and pytorch computer vision tools.
+- 🌱 I’m currently learning how to work with SAR images and web services.
 - 📫 How to reach me ... yelkinturan@gmail.com
 
 <!---
